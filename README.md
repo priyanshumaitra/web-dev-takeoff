@@ -3,12 +3,12 @@
 These are some beginner-friendly takeoff projects in Web Development made while myself learning on the go inspired by some YouTube creators, special thanks to them.
 
 ## 📜 Table of contents 
-- [Live Sites 🎯]()
+- [Live Sites 🎯](#-table-of-contents)
   - [Tourism-Kolkata 🟢]() 
   - [Central-Calcutta-Polytechnic Website 🟢]()
 - [Technologies Used 💡](#-technologies-used)
 - [Cloning Locally 📋](#-cloning-locally)
-- [Feedback](#-feedback)
+- [Feedback](#-give-feedback)
 
 ## 💡 Technologies Used
 **Projects made using:**
@@ -36,7 +36,7 @@ These are some beginner-friendly takeoff projects in Web Development made while 
 ```
 After opening on Visual Studio Code, you can make edits of your choices.
 
-## Feedback
+## Give Feedback
 If you have any feedback, or you find any kind of issue, typos, then do create an issue or make a pull request. You can also reach me through my [email](mailto:priyanshu.m@outlook.in)
 
   
