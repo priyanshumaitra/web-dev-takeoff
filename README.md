@@ -7,8 +7,8 @@ These are some beginner-friendly takeoff projects in Web Development made while 
   - [Tourism-Kolkata 🟢]() 
   - [Central-Calcutta-Polytechnic Website 🟢]()
 - [Technologies Used 💡](#technologies-used)
-- [Cloning Locally 📋](#cloning-locally)
-- [Feedback ✉️](#feedback)
+- [Cloning Locally 📋](#-cloning-locally)
+- [Feedback ✉️](#-feedback)
 
 ## 💡 Technologies Used
 **Projects made using:**
