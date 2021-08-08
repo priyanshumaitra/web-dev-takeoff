@@ -36,7 +36,7 @@ These are some beginner-friendly takeoff projects in Web Development made while 
 ```
 After opening on Visual Studio Code, you can make edits of your choices.
 
-## ✉️ Feedback
+## Feedback
 If you have any feedback, or you find any kind of issue, typos, then do create an issue or make a pull request. You can also reach me through my [email](mailto:priyanshu.m@outlook.in)
 
   
