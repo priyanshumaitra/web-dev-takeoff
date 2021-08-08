@@ -4,11 +4,11 @@ These are some beginner-friendly takeoff projects in Web Development made while 
 
 ## 📜 Table of contents 
 - [Live Sites 🎯](#-table-of-contents)
-  - [Tourism-Kolkata 🟢]() 
-  - [Central-Calcutta-Polytechnic Website 🟢]()
+  - [Tourism-Kolkata 🟢](https://priyanshumaitra.github.io/web-dev-takeoff/tourism-kolkata/index.html) 
+  - [Central-Calcutta-Polytechnic Website 🟢](https://priyanshumaitra.github.io/web-dev-takeoff/central-calcutta-polytechnic/index.html)
 - [Technologies Used 💡](#-technologies-used)
 - [Cloning Locally 📋](#-cloning-locally)
-- [Feedback](#-give-feedback)
+- [Feedback 📨](#-give-feedback)
 
 ## 💡 Technologies Used
 **Projects made using:**
@@ -36,7 +36,7 @@ These are some beginner-friendly takeoff projects in Web Development made while 
 ```
 After opening on Visual Studio Code, you can make edits of your choices.
 
-## Give Feedback
+## 📨 Give Feedback
 If you have any feedback, or you find any kind of issue, typos, then do create an issue or make a pull request. You can also reach me through my [email](mailto:priyanshu.m@outlook.in)
 
   
